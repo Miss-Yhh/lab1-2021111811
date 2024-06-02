@@ -1,0 +1,49 @@
+Node to has edges:
+  to explore with weight 2.0
+  to seek with weight 2.0
+  to a with weight 1.0
+  to life with weight 1.0
+Node explore has edges:
+  to strange with weight 2.0
+Node strange has edges:
+  to new with weight 1.0
+  to of with weight 1.0
+Node new has edges:
+  to worlds with weight 1.0
+  to life with weight 4.0
+  to civilizations with weight 1.0
+Node worlds has edges:
+  to to with weight 2.0
+  to set with weight 1.0
+Node seek has edges:
+  to out with weight 2.0
+  to the with weight 1.0
+Node out has edges:
+  to new with weight 1.0
+  to the with weight 2.0
+  to to with weight 1.0
+Node life has edges:
+  to and with weight 1.0
+  to shadows with weight 1.0
+  to the with weight 2.0
+  to of with weight 1.0
+Node and has edges:
+  to new with weight 3.0
+  to worlds with weight 1.0
+Node civilizations has edges:
+  to the with weight 1.0
+Node the has edges:
+  to worlds with weight 1.0
+  to and with weight 2.0
+  to seek with weight 1.0
+  to to with weight 1.0
+  to shadows with weight 1.0
+Node set has edges:
+  to out with weight 1.0
+Node shadows has edges:
+  to out with weight 2.0
+Node a has edges:
+  to to with weight 1.0
+Node of has edges:
+  to new with weight 1.0
+  to and with weight 1.0
